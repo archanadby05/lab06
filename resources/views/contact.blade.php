@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Contact Page</h1>
+    <h2>The name is {{$name}}</h2>
 </body>
 </html>
